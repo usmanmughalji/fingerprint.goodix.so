@@ -14,15 +14,15 @@ Maybe need to patch Aliplay functions
 
 | Function                           | Patch place | Patch status (patched or not) | New command |
 | :--------------------------------- | :---------- | :---------------------------- | :---------- |
-| goodix_sensor_fp_enroll            | C3F0        | no                            | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3F4        | no                            | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3F8        | no                            | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3FC        | no                            | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C404        | no                            | CMP X2, X1  |
-| goodix_sensor_fp_clear_enroll_env  | C548        | no                            | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C54C        | no                            | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C550        | no                            | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C558        | no                            | CMP X1, X0  |
+| goodix_sensor_fp_enroll            | C3F0        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C3F4        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C3F8        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C3FC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C404        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_clear_enroll_env  | C548        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C54C        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C550        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C558        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_set_session_id    | C644        | no                            | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C648        | no                            | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C64C        | no                            | CMP X2, X1  |
