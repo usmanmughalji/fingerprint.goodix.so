@@ -72,5 +72,25 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fill_auth_token_hmac | C0DC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fill_auth_token_hmac | C0E0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fill_auth_token_hmac | C0E8        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll_verify     | C2EC        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_enroll_verify     | C2F0        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_enroll_verify     | C2F4        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_enroll_verify     | C2F8        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_enroll_verify     | C300        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_set_user_id       | C200        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_set_user_id       | C204        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_set_user_id       | C208        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_set_user_id       | C20C        | no                            | CMP X2, X1  |
+| goodix_sensor_fp_set_user_id       | C214        | no                            | CMP X2, X1  |
+| goodix_enable_screen_lock          | D1C0        | no                            | CMP X2, X1  |
+| goodix_enable_screen_lock          | D1C4        | no                            | CMP X2, X1  |
+| goodix_enable_screen_lock          | D1C8        | no                            | CMP X2, X1  |
+| goodix_enable_screen_lock          | D1CC        | no                            | CMP X2, X1  |
+| goodix_enable_screen_lock          | D1D4        | no                            | CMP X2, X1  |
+| goodix_disable_screen_lock         | D29C        | no                            | CMP X2, X1  |
+| goodix_disable_screen_lock         | D2A0        | no                            | CMP X2, X1  |
+| goodix_disable_screen_lock         | D2A4        | no                            | CMP X2, X1  |
+| goodix_disable_screen_lock         | D2A8        | no                            | CMP X2, X1  |
+| goodix_disable_screen_lock         | D2B0        | no                            | CMP X2, X1  |
 
 12 functions, 58 patch places
