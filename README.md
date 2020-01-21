@@ -19,10 +19,10 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_enroll            | C0F4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_enroll            | C0F8        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_enroll            | C100        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_clear_enroll_env  | C548        | yes                           | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C54C        | yes                           | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C550        | yes                           | CMP X1, X0  |
-| goodix_sensor_fp_clear_enroll_env  | C558        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C244        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C248        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C24C        | yes                           | CMP X1, X0  |
+| goodix_sensor_fp_clear_enroll_env  | C254        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_set_session_id    | C644        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C648        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C64C        | yes                           | CMP X2, X1  |
