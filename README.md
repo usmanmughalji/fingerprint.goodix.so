@@ -14,11 +14,12 @@ Maybe need to patch Aliplay functions
 
 | Function                           | Patch place | Patch status (patched or not) | New command |
 | :--------------------------------- | :---------- | :---------------------------- | :---------- |
-| goodix_sensor_fp_enroll            | C3F0        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3F4        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3F8        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C3FC        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C404        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C0EC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C0F0        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C0F4        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C0F8        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C0FC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_enroll            | C100        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_clear_enroll_env  | C548        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_clear_enroll_env  | C54C        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_clear_enroll_env  | C550        | yes                           | CMP X1, X0  |
