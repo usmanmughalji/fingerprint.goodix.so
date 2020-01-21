@@ -18,7 +18,6 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_enroll            | C0F0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_enroll            | C0F4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_enroll            | C0F8        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_enroll            | C0FC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_enroll            | C100        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_clear_enroll_env  | C548        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_clear_enroll_env  | C54C        | yes                           | CMP X1, X0  |
