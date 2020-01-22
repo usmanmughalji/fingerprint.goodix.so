@@ -31,11 +31,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_set_session_id    | C348        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C34C        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_set_session_id    | C354        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_match             | C770        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_match             | C774        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_match             | C778        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_match             | C77C        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_match             | C784        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_match             | C454        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_match             | C458        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_match             | C45C        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_match             | C460        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_match             | C468        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_cancel            | C8EC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_cancel            | C8F0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_cancel            | C8F4        | yes                           | CMP X2, X1  |
