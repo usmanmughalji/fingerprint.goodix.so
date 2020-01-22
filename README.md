@@ -50,11 +50,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_get_fp_list       | C7E8        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_get_fp_list       | C7EC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_get_fp_list       | C7F4        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_remove            | CD5C        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_remove            | CD60        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_remove            | CD64        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_remove            | CD68        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_remove            | CD70        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_remove            | C9FC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_remove            | CA00        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_remove            | CA04        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_remove            | CA08        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_remove            | CA10        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_gxCmd             | CFB0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_gxCmd             | CFB4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_gxCmd             | CFB8        | yes                           | CMP X2, X1  |
