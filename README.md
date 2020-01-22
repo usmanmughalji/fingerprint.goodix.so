@@ -26,11 +26,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_clear_enroll_env  | C248        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_clear_enroll_env  | C24C        | yes                           | CMP X1, X0  |
 | goodix_sensor_fp_clear_enroll_env  | C254        | yes                           | CMP X1, X0  |
-| goodix_sensor_fp_set_session_id    | C644        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_set_session_id    | C648        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_set_session_id    | C64C        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_set_session_id    | C650        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_set_session_id    | C658        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_set_session_id    | C340        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_set_session_id    | C344        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_set_session_id    | C348        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_set_session_id    | C34C        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_set_session_id    | C354        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_match             | C770        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_match             | C774        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_match             | C778        | yes                           | CMP X2, X1  |
