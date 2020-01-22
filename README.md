@@ -41,7 +41,7 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_cancel            | C5CC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_cancel            | C5D0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_cancel            | C5D8        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_save              | C9DC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_save              | C6B4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9E0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9E4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9E8        | yes                           | CMP X2, X1  |
