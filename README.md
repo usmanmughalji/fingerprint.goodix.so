@@ -36,11 +36,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_match             | C45C        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_match             | C460        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_match             | C468        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_cancel            | C8EC        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_cancel            | C8F0        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_cancel            | C8F4        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_cancel            | C8F8        | yes                           | CMP X2, X1  |
-| goodix_sensor_fp_cancel            | C900        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_cancel            | C5C4        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_cancel            | C5C8        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_cancel            | C5CC        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_cancel            | C5D0        | yes                           | CMP X2, X1  |
+| goodix_sensor_fp_cancel            | C5D8        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9DC        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9E0        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_save              | C9E4        | yes                           | CMP X2, X1  |
