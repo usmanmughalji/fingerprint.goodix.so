@@ -60,11 +60,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_fp_gxCmd             | CB64        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_gxCmd             | CB68        | yes                           | CMP X2, X1  |
 | goodix_sensor_fp_gxCmd             | CB70        | yes                           | CMP X2, X1  |
-| goodix_sensor_init                 | BA58        | yes                           | CMP X2, X1  |
-| goodix_sensor_init                 | BA5C        | yes                           | CMP X2, X1  |
-| goodix_sensor_init                 | BA60        | yes                           | CMP X2, X1  |
-| goodix_sensor_init                 | BA64        | yes                           | CMP X2, X1  |
-| goodix_sensor_init                 | BA6C        | yes                           | CMP X2, X1  |
+| goodix_sensor_init                 | B5AC        | yes                           | CMP X2, X1  |
+| goodix_sensor_init                 | B5B0        | yes                           | CMP X2, X1  |
+| goodix_sensor_init                 | B5B4        | yes                           | CMP X2, X1  |
+| goodix_sensor_init                 | B5B8        | yes                           | CMP X2, X1  |
+| goodix_sensor_init                 | B5C0        | yes                           | CMP X2, X1  |
 | goodix_sensor_set_active_group     | BEA8        | yes                           | CMP X2, X1  |
 | goodix_sensor_set_active_group     | BEAC        | yes                           | CMP X2, X1  |
 | goodix_sensor_set_active_group     | BEB0        | yes                           | CMP X2, X1  |
