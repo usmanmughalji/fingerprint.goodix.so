@@ -70,10 +70,10 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_set_active_group     | BB58        | yes                           | CMP X2, X1  |
 | goodix_sensor_set_active_group     | BB5C        | yes                           | CMP X2, X1  |
 | goodix_sensor_set_active_group     | BB64        | yes                           | CMP X2, X1  |
-| goodix_sensor_fill_auth_token_hmac | C0D4        | yes                           | CMP X2, X1  |
-| goodix_sensor_fill_auth_token_hmac | C0D8        | yes                           | CMP X2, X1  |
-| goodix_sensor_fill_auth_token_hmac | C0DC        | yes                           | CMP X2, X1  |
-| goodix_sensor_fill_auth_token_hmac | C0E0        | yes                           | CMP X2, X1  |
-| goodix_sensor_fill_auth_token_hmac | C0E8        | yes                           | CMP X2, X1  |
+| goodix_sensor_fill_auth_token_hmac | BE8C        | yes                           | CMP X2, X1  |
+| goodix_sensor_fill_auth_token_hmac | BE90        | yes                           | CMP X2, X1  |
+| goodix_sensor_fill_auth_token_hmac | BE94        | yes                           | CMP X2, X1  |
+| goodix_sensor_fill_auth_token_hmac | BE98        | yes                           | CMP X2, X1  |
+| goodix_sensor_fill_auth_token_hmac | BEA0        | yes                           | CMP X2, X1  |
 
 12 functions, 58 patch places
