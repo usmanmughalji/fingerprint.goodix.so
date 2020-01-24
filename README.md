@@ -65,11 +65,11 @@ Maybe need to patch Aliplay functions
 | goodix_sensor_init                 | B5B4        | yes                           | CMP X2, X1  |
 | goodix_sensor_init                 | B5B8        | yes                           | CMP X2, X1  |
 | goodix_sensor_init                 | B5C0        | yes                           | CMP X2, X1  |
-| goodix_sensor_set_active_group     | BEA8        | yes                           | CMP X2, X1  |
-| goodix_sensor_set_active_group     | BEAC        | yes                           | CMP X2, X1  |
-| goodix_sensor_set_active_group     | BEB0        | yes                           | CMP X2, X1  |
-| goodix_sensor_set_active_group     | BEB4        | yes                           | CMP X2, X1  |
-| goodix_sensor_set_active_group     | BEBC        | yes                           | CMP X2, X1  |
+| goodix_sensor_set_active_group     | BB50        | yes                           | CMP X2, X1  |
+| goodix_sensor_set_active_group     | BB54        | yes                           | CMP X2, X1  |
+| goodix_sensor_set_active_group     | BB58        | yes                           | CMP X2, X1  |
+| goodix_sensor_set_active_group     | BB5C        | yes                           | CMP X2, X1  |
+| goodix_sensor_set_active_group     | BB64        | yes                           | CMP X2, X1  |
 | goodix_sensor_fill_auth_token_hmac | C0D4        | yes                           | CMP X2, X1  |
 | goodix_sensor_fill_auth_token_hmac | C0D8        | yes                           | CMP X2, X1  |
 | goodix_sensor_fill_auth_token_hmac | C0DC        | yes                           | CMP X2, X1  |
